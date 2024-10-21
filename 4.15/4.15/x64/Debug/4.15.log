@@ -1,0 +1,6 @@
+﻿  main.c
+C:\Users\admin\Desktop\大學\大一上\113高階程式設計\HW\HW2\HW2\4.15\4.15\main.c(18,11): warning C4305: '+=': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+C:\Users\admin\Desktop\大學\大一上\113高階程式設計\HW\HW2\HW2\4.15\4.15\main.c(7,17): warning C4305: '正在初始化': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+C:\Users\admin\Desktop\大學\大一上\113高階程式設計\HW\HW2\HW2\4.15\4.15\main.c(7,21): warning C4101: 'rate_2': 未參考的區域變數
+C:\Users\admin\Desktop\大學\大一上\113高階程式設計\HW\HW2\HW2\4.15\4.15\main.c(7,8): warning C4101: 'num': 未參考的區域變數
+  4.15.vcxproj -> C:\Users\admin\Desktop\大學\大一上\113高階程式設計\HW\HW2\HW2\4.15\x64\Debug\4.15.exe
